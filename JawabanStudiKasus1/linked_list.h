@@ -28,4 +28,13 @@ void copyAbove70(LinkedList* source, LinkedList* dest);
 void removeDuplicates(LinkedList* list);
 void clearList(LinkedList* list);
 
+void TampilkanList()
+void insertFirst(int value)
+void insertLast(int value)
+void insertAfter(int target, int value)
+void deleteFirst()
+void deleteLast()
+void deleteValue(int value)
+void deleteAll()
+
 #endif
