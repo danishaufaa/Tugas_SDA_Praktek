@@ -1,5 +1,3 @@
-// file: main.c
-
 #include <stdio.h>
 #include "kota.h"
 
