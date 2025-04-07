@@ -1,5 +1,3 @@
-// file : linked_list.c
-
 #include "linked_list.h"
 
 NodeString* createNodeString(const char* value) {
